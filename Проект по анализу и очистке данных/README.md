@@ -1,4 +1,4 @@
-# Проект 1. Анализ резюме из HeadHunter
+# [Проект 1. Анализ резюме из HeadHunter](https://github.com/MorozovOV/My-Projects/blob/master/Проект%20по%20анализу%20и%20очистке%20данных/Анализ%20резюме%20из%20HeadHunter.ipynb)
 
 ## Оглавление  
 [1. Описание проекта](README.md#Описание-проекта)  
