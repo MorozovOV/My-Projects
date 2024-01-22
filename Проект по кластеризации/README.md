@@ -24,12 +24,12 @@
 * Оценка качества классификации производилась при помощи метрики accuracy.
 
 **Использованные библиотеки Python**
-pandas
-numpy
-matplotlib
-seaborn
-plotly.express
-sklearn
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* plotly.express
+* sklearn
 
 ### Краткая информация о данных
 В использованном нами [набре данных](https://drive.google.com/file/d/1Axlknf1Rd6T6UFRzWWZA_gBbfN2g9r3v/view) содержится следующая информация:
