@@ -23,13 +23,21 @@
 Метрикой качества решения поставленной задачи будет среднеквадратичная логарифмическая ошибка, RMSLE (Root Mean Squared Log Error).
 
 **Использованные библиотеки Python**
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 plotly.express
+
 sklearn
+
 scipy
+
 xgboost
 
 ### Краткая информация о данных
