@@ -85,6 +85,8 @@ pickle
 ### Выводы:  
 Получена модель, которая эффективно предсказывает цену на недвижимость в США. Цель проекта достигнута.
 
+Ссылка на докер-образ: https://hub.docker.com/repository/docker/morozovov/diplom/general
+
 :arrow_up:[к оглавлению](README.md#Оглавление)
 
 
