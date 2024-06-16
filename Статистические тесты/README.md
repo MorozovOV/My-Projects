@@ -30,6 +30,7 @@ scipy
 statsmodels
 matplotlib
 seaborn
+:arrow_up:[к оглавлению](README.md#Оглавление)
 
 ### Краткая информация о данных
 В использованном нами [набре данных](https://cloud.mail.ru/public/g8FZ/n7Q3YnBj9) содержится следующая информация:
