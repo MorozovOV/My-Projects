@@ -26,12 +26,12 @@ HR-агентство изучает тренды на рынке труда в 
 Если в данных найдутся интересные закономерности, необходимо их отметить.
 
 **Использованные библиотеки Python**
-pandas
-numpy
-scipy
-statsmodels
-matplotlib
-seaborn
+* pandas
+* numpy
+* scipy
+* statsmodels
+* matplotlib
+* seaborn
 
 :arrow_up:[к оглавлению](README.md#Оглавление)
 
